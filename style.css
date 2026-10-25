@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+#Output {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: darkred;
+}
